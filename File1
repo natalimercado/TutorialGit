@@ -1,2 +1,1 @@
-print("Realizando pruebas") 
-print("Hola mundo")
+print("hola mundo")
